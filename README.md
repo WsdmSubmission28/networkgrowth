@@ -1,4 +1,4 @@
-![alt tag](https://raw.githubusercontent.com/WsdmSubmission28/networkgrowth/master/content/viz_oc.png)
+![alt tag](https://raw.githubusercontent.com/WsdmSubmission28/networkgrowth/master/content/viz_oc.png  =250x)
 
 # Raising graphs from randomness - revealing information networks
 
