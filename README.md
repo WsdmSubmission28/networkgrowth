@@ -1,3 +1,5 @@
+<p style="text-align:center;"><img src="https://drive.google.com/open?id=0B_3Dz2J_fhmTQ2NHemN4clBFTjQ" width=800 /></p>
+
 # Raising graphs from randomness - revealing information networks
 
 This repo is the collection of the codes used in the experiments of [Raising graphs from randomness - revealing information networks](https://drive.google.com/open?id=0B_3Dz2J_fhmTYXg5MlViOFpmemM).
