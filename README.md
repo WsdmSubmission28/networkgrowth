@@ -1,4 +1,4 @@
-<p style="text-align:center;"><img src="https://drive.google.com/open?id=0B_3Dz2J_fhmTQ2NHemN4clBFTjQ" width=800 /></p>
+<p style="text-align:center;"><img src="https://drive.google.com/file/d/0B_3Dz2J_fhmTQ2NHemN4clBFTjQ/view?usp=sharing" width=800 /></p>
 
 # Raising graphs from randomness - revealing information networks
 
