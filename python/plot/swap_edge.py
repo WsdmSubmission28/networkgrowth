@@ -38,6 +38,4 @@ class SwapEdge:
     self.plot("15",10,100000,1,5)
     self.plot("fb",10,100000,1,10)
     self.plot("db",10,10000000,1,8)
-    self.plot("mu",10,100000,1,4)
-    self.plot("lk",10,40000,1,10)
     self.plot("wi",10,2000000,1,40)
