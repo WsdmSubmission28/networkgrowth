@@ -29,3 +29,5 @@ Datasets can be found [here](https://drive.google.com/drive/folders/0B_3Dz2J_fhm
 * [Average degree](https://github.com/WsdmSubmission28/networkgrowth/blob/master/ipython/es_avgdeg.ipynb)
 * [Evolving power-law degree distributions](https://github.com/WsdmSubmission28/networkgrowth/blob/master/ipython/es_dist.ipynb)
 * [Average degree and the exponent of the power-law degree distribution](https://github.com/WsdmSubmission28/networkgrowth/blob/master/ipython/es_degdist.ipynb)
+* [Microscopic view](https://github.com/WsdmSubmission28/networkgrowth/blob/master/ipython/es_micro.ipynb)
+* [Shuffling edge sequences](https://github.com/WsdmSubmission28/networkgrowth/blob/master/ipython/es_random.ipynb)
